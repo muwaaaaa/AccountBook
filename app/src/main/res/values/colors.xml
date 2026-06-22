@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+
+    <!-- 饼图颜色 -->
+    <color name="chart_color_1">#FF6B6B</color>
+    <color name="chart_color_2">#4ECDC4</color>
+    <color name="chart_color_3">#45B7D1</color>
+    <color name="chart_color_4">#96CEB4</color>
+    <color name="chart_color_5">#FFEAA7</color>
+    <color name="chart_color_6">#DDA0DD</color>
+    <color name="chart_color_7">#FF9FF3</color>
+    <color name="chart_color_8">#F368E0</color>
+</resources>
